@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
